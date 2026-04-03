@@ -147,6 +147,13 @@ This allows the model to be easily deployed in:
 
 ---
 
+
+# Feature Importance
+
+<img width="1158" height="533" alt="image" src="https://github.com/user-attachments/assets/941765d2-c37e-449e-adec-bca7070326fd" />
+
+---
+
 # 🔮 Example Prediction
 
 Input:
@@ -179,7 +186,3 @@ This system can be used in:
 - IoT-based soil monitoring systems
 
 
-
-**Rounak**
-
-Machine Learning | Data Analytics | AI Applications in Agriculture
