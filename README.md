@@ -31,6 +31,7 @@ Coffee
 Mango
 Chickpea
 Kidney Beans
+
 ⚙️ Machine Learning Pipeline
 
 The project follows a complete ML workflow:
@@ -54,6 +55,7 @@ Cross Validation
 Feature Importance Analysis
 ↓
 Model Serialization (.pkl)
+
 🧠 Model Used
 
 Gradient Boosting Classifier
@@ -69,6 +71,7 @@ Hyperparameters used:
 n_estimators = 300
 learning_rate = 0.1
 max_depth = 3
+
 📈 Model Performance
 
 Evaluation metrics used:
@@ -89,6 +92,7 @@ Nitrogen
 Humidity
 Temperature
 pH
+
 🌍 Applications
 
 This system can be used in:
