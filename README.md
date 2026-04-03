@@ -169,40 +169,6 @@ Recommended Crop → Rice
 
 ---
 
-# 🛠️ Installation
-
-Clone the repository:
-
-```
-git clone https://github.com/yourusername/crop-recommendation-ml.git
-```
-
-Install dependencies:
-
-```
-pip install -r requirements.txt
-```
-
----
-
-# ▶️ Run the Project
-
-Run the training script:
-
-```
-python crop_model.py
-```
-
-The script will:
-
-- Train the model
-- Evaluate performance
-- Generate visualizations
-- Save the trained model
-
-
----
-
 # 🌍 Applications
 
 This system can be used in:
