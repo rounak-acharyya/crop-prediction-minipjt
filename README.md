@@ -99,16 +99,16 @@ Evaluation metrics used:
 - Confusion Matrix
 - Cross Validation
 
-Typical results:
+Results:
 
 ```
-Accuracy: ~96% – 99%
+Accuracy: 98.19%
 ```
 
 Cross-validation:
 
 ```
-Mean CV Accuracy ≈ 0.97
+Mean CV Accuracy ≈ 0.99
 ```
 
 ---
